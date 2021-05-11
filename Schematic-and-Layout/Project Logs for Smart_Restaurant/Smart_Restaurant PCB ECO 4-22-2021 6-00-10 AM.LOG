@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5 Pin=R2-2
+Removed Pin From Net: NetName=NetP2_3 Pin=R2-3
+Added Pin To Net: NetName=NetP2_3 Pin=R2-2
+Added Pin To Net: NetName=+5 Pin=R2-3
+Added Member To Class: ClassName=Smart_Restaurant Member=Component U3 AT24C02-10PI-2.7

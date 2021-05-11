@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Member To Class: ClassName=Smart_Restaurant Member=Component C2 Cap
+Added Member To Class: ClassName=Smart_Restaurant Member=Component C3 Cap
+Added Member To Class: ClassName=Smart_Restaurant Member=Component C4 Cap
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P2 LCD
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P3 Bluetooth
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P4 Keypad
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R1 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R4 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R5 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R6 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component U1 L7805CV
+Added Member To Class: ClassName=Smart_Restaurant Member=Component U3 AT24C16
+Added Room: Name=Smart_Restaurant

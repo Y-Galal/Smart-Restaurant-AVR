@@ -1,0 +1,5 @@
+Added Component: Designator=U?(SOT129-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = "AT89C51-12PL"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Smart_Restaurant Member=Component U? AT89C51-12PI

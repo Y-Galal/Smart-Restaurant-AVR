@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R? Old Footprint=RO3.2x1.7 New Footprint=R6.3x2.5
+Change Component Footprint: Designator=R? Old Footprint=RO3.2x1.7 New Footprint=R6.3x2.5
+Change Component Footprint: Designator=R? Old Footprint=RO3.2x1.7 New Footprint=R6.3x2.5
+Change Component Footprint: Designator=R? Old Footprint=RO3.2x1.7 New Footprint=R6.3x2.5
+Change Component Footprint: Designator=R? Old Footprint=RO3.2x1.7 New Footprint=R6.3x2.5
+Added Member To Class: ClassName=Smart_Restaurant Member=Component C? Cap
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Keypad
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Terminal Block
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Bluetooth
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R? 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R? 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R? 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R? 10K
+Added Member To Class: ClassName=Smart_Restaurant Member=Component U? ATmega16L-8PI
+Added Member To Class: ClassName=Smart_Restaurant Member=Component U? L7805CV

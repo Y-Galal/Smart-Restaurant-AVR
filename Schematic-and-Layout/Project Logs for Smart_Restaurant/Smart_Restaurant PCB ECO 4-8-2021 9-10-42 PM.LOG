@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Y? Old Footprint=R38 New Footprint=BCY-W2/D3.1
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Bluetooth
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Keypad

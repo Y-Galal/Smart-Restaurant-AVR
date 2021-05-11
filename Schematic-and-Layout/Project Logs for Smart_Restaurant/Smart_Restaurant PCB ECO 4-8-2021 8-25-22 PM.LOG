@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=Y? Old Footprint=R38 New Footprint=HC-49U
+Change component parameters: Designator = "Y?"; Footprint = "HC-49U"; UniqueID = "\RGNSVZRI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ecsxtal.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ecsxtal.com/pdf2/HC49U.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "18-Apr-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "HC-49U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Keypad
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Bluetooth

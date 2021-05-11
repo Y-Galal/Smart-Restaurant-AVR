@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=U? Old Footprint=SOT129-1 New Footprint=40P6
+Change Component Comment : Designator=U? Old Comment=AT89C51-12PI New Comment=ATmega16L-8PI
+Change component parameters: Designator = "U?"; Footprint = "40P6"; UniqueID = "\LLYRZVIY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-011-AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2466.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2466E-AVR-10/02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "40-lead (0.600"/15.24mm Wide) Plastic Dual Inline Package (PDIP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "40P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revB, Sep-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA16L-8PI-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA16L-8PI"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X6H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RO3.2x1.7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE14.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Discontinuation Notice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.panasonic.com/industrial/components/pdf/dc050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RO3.2x1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(R38)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? LCD
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Bluetooth
+Added Member To Class: ClassName=Smart_Restaurant Member=Component P? Keypad
+Added Member To Class: ClassName=Smart_Restaurant Member=Component R? EROS2C
+Added Member To Class: ClassName=Smart_Restaurant Member=Component Y? XTAL
