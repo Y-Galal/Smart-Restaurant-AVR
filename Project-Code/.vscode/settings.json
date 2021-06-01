@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "inc.h": "c",
+        "common_macros.h": "c",
+        "std_types.h": "c",
+        "micro_config.h": "c",
+        "init.h": "c",
+        "lcd.h": "c"
+    }
+}
