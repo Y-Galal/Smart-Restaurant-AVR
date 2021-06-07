@@ -29,9 +29,9 @@
 #endif
 
 /* Hw Pins */
-#define RS PD4
+#define RS PD6
 #define RW PD5
-#define E PD6
+#define E PD4
 
 #define LCD_CTRL_PORT PORTD
 #define LCD_CTRL_PORT_DIR DDRD

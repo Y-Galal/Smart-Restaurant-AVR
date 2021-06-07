@@ -69,9 +69,9 @@ int main()
         _delay_ms(500);
         showFood(3);
 
-        while(     (keys[1] != 4 || foodAvailable[3]==0) 
-                && (keys[1] != 5 || foodAvailable[4]==0)
-                && (keys[1] != 6 || foodAvailable[5]==0)
+        while(     (keys[1] != 4  ||foodAvailable[3]==0) 
+                && (keys[1] != 5  ||foodAvailable[4]==0)
+                && (keys[1] != 6  ||foodAvailable[5]==0)
             ) //exiting this loop when we get a good choice and food is available
         {
             keys[1] = Keypad_getPressedKey();
@@ -158,8 +158,8 @@ void showFood(int foodType)
     LCD_clearScreen();
     for(i=foodType;i<foodType+3;i++)
     {
-        EEPROM_readByte(FOOD_ADDRESS+i,&foodQuantity);
-        if(foodQuantity != 0)
+       EEPROM_readByte(FOOD_ADDRESS+i,&foodQuantity);
+        if(1||foodQuantity != 0)
         {
             LCD_displayStringRowColumn(i-foodType,0,Food[i]);
         }
